@@ -5,7 +5,7 @@ Working in a **team of 4**, we programmed the **EEbot mobile robot** using **HCS
 
 ---
 
-## 🚀 Features
+##  Features
 - **Line Following:** Tracks the maze guidance line and navigates S-turns.  
 - **Intersection Detection:** Identifies L and T junctions, makes branching decisions, and records paths.  
 - **Dead-End Recovery:** Executes bumper-triggered reversals, marks incorrect paths, and updates the maze solution.  
@@ -14,7 +14,7 @@ Working in a **team of 4**, we programmed the **EEbot mobile robot** using **HCS
 
 ---
 
-## 🔧 Technical Highlights
+##  Technical Info
 - **Language/Tools:** HCS12 Assembly, CodeWarrior IDE  
 - **Concepts:** State machine design, real-time debugging, embedded systems programming  
 - **Hardware:** EEbot robot with guider sensors, bumper detectors, and LCD display  
@@ -22,4 +22,5 @@ Working in a **team of 4**, we programmed the **EEbot mobile robot** using **HCS
 ---
 
 ## 📺 Demo
-https://www.youtube.com/watch?v=dFiZIp_y9sg
+🎥 [Watch the project demo on YouTube](https://www.youtube.com/watch?v=dFiZIp_y9sg) 
+
